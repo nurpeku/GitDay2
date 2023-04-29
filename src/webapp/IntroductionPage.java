@@ -7,4 +7,6 @@ public class IntroductionPage {
     // should use total 300 letters
 
     //....
+
+    // make sure summarize of book
 }
